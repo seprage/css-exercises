@@ -17,3 +17,14 @@ button {
   padding: 16px 24px;
   text-align: center;
 }
+
+button {
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+button:hover {
+  scale: scale(1.2);
+}
+
+button:hover {
+  transform: scale(1.5)
+}
