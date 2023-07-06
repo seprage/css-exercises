@@ -1,0 +1,23 @@
+/* style.css */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font: bold;
+    
+}
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    
+}
+
+button {
+    background-color: orange;
+    color: black;
+    font-size: 18px;
+    
+}
