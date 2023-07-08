@@ -1,0 +1,8 @@
+/*only the p elements that are child of div*/
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
